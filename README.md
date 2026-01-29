@@ -39,9 +39,3 @@ The app allows users to manage daily tasks through a clean and user-friendly des
 </p>
 
 
----
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AbdullahKhojah/Qt-todo-app.git
